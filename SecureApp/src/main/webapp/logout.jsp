@@ -8,7 +8,7 @@
 </head>
 <body>
 
-	Welcome everyone !!
-	<a href="/logout"> Logout</a>
+	Log out home <br>
+	<a href ="/">home</a>
 </body>
 </html>
